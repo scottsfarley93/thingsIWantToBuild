@@ -8,6 +8,6 @@ A list of things I want to build
 - Summitscraper: an interactive app that maps the routes on [http://summitpost.org](http://summitpost.org).
 - An interactive map of ice sheet height and thickness using vector tiles (3D) to browse glaciation extent through the LIG or longer.
 - A card-based system that allows you to make cards for quotes from scientific papers, along with a reference. Users can then drag and drop the cards into piles when organizing their thoughts. 
-
+- A dev tools extension that allows you to filter `console.log` on only those on the functionality you're currently developing on.
 
 
